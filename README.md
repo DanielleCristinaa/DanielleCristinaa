@@ -1,8 +1,8 @@
-- 👋 Hi, eu sou DanielleCristinaa
-- 👀 I’m interested in desenvolvimento web.
-- 🌱 I’m currently estudando analise desnvolvimento de sistemas.
+- 👋 Oii, eu sou DanielleCristinaa
+- 👀 Estou interessada em desenvolvimento web.
+- 🌱 Estou estudando analise desnvolvimento de sistemas.
 - 💞️ Projetos em breve
-- 📫 Reach me através dos links abaixo: 
+- 📫 Contate-me através dos links abaixo: 
 
 <!---
 DanielleCristinaa/DanielleCristinaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
